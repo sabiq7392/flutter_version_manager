@@ -1,3 +1,8 @@
+MAC_PATH="/Users/sabiqmuhammad"
+MAC_TOOLS_PATH="$MAC_PATH/Documents/tools"
+EX_PATH="/Volumes/externalstorage"
+EX_TOOLS_PATH="$EX_PATH/Documents/tools"
+
 use_flutter_version() {
   if [ $# -eq 0 ]; then
     echo "❌ Error: Version number not provided."
