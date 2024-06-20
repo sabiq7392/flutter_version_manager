@@ -27,6 +27,7 @@ use_flutter_version() {
     export PATH="$flutter_path:$PATH"
     hash -r
     echo "✅ Success changed to Flutter $version"
+    return 0
   else
     echo "❌ Flutter version does not exist: $flutter_path"
     return 1
