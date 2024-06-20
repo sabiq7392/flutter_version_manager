@@ -3,5 +3,5 @@
 3. run command
 
 example:
-1. use_flutter_version <version>
+1. use_flutter_version 3.13.9
 2. list_flutter_version
