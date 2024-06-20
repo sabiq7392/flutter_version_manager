@@ -6,3 +6,6 @@
 example:
 1. use_flutter_version 3.13.9
 2. list_flutter_version
+
+note:
+this script always put first to check externalstorage and if not exist check the mac storage
